@@ -2,7 +2,7 @@
 #define LISTS_H
 
 /**
- * struct lists: singly linked list
+ * struct lists_s: singly linked list
  * @str: string - (malloc'ed string)
  * @len: length of string
  * @next: points to next node
